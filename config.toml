@@ -1,0 +1,48 @@
+baseURL = 'danielhicks.tech'
+languageCode = 'en-us'
+title = 'Daniel Hicks'
+theme = "hugo-theme-m10c"
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.128.0"
+
+[params]
+  author = "Daniel Hicks"
+  description = "Technician • Initiator • Mentor"
+  avatar = "https://avatars.githubusercontent.com/u/43768714?v=4"
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Projects'
+    pageRef = '/projects'
+    weight = 20
+  [[menus.main]]
+    name = 'Products'
+    pageRef = '/products'
+    weight = 30
+  [[menus.main]]
+    name = 'Services'
+    pageRef = '/services'
+    weight = 40
+
+[[params.social]]
+  icon = "brand-github"
+  name = "My Github"
+  url = "https://github.com/astrastrix"
+[[params.social]]
+  icon = "brand-orcid"
+  name = "My ORCID"
+  url = "https://orcid.org/0000-0001-8625-2425"
+[[params.social]]
+  icon = "brand-linkedin"
+  name = "LinkedIn"
+  url = "www.linkedin.com/in/danielhicks291"
+[[params.social]]
+  icon = "brand-linktree"
+  name = "LinkTree"
+  url = "www.linktr.ee/danielhicks"
