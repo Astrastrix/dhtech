@@ -41,8 +41,8 @@ theme = "hugo-theme-m10c"
 [[params.social]]
   icon = "brand-linkedin"
   name = "LinkedIn"
-  url = "www.linkedin.com/in/danielhicks291"
+  url = "https://www.linkedin.com/in/danielhicks291"
 [[params.social]]
   icon = "brand-linktree"
   name = "LinkTree"
-  url = "www.linktr.ee/danielhicks"
+  url = "https://www.linktr.ee/danielhicks"
