@@ -20,13 +20,17 @@ I also casually lecture on Remotely Piloted Aerial Systems (RPAS) and other Auto
 + Bachelor of Aviation (Technology)
 + Master of Science (Aviation)
 
-### Certificates
+### Certificates & Licenses
 + Cert IV TAE -- Training and Assessing
-+ Diploma of Leadership
-
++ Diploma of Leadership (Church Work)
++ RePL -- Multi-rotor Sub 25Kg
++ RPL-A & AROC -- SEA Class
 
 ## 🏵 Hobbies & Experiences
 I enjoy average things, like most people: exploring new places, playing games, having a drink or two with those who matter to me 🍻, plus generating solutions to problems (see [Projects](/projects)).
 
 With experience in telecommunications, aviation, academia, construction, and creative industries, I possess a range of knowledge with numerous applications. 
 Previously held director and leadership roles at private and local government entities, and owned small local businesses.
+
+---
+© 2025 Daniel Hicks
