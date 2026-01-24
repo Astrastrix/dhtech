@@ -6,7 +6,7 @@ Welcome to the overly complex world of me 😅
 
 I'm an Aussie 🇦🇺 technician, lecturer, researcher, pilot, gamer, inventor, and entrepreneur. (Plus a whole lot more...)
 
-From Bundaberg, Queensland (the rum, sugar, and brewed drinks capital of Australia).\
+From Bundaberg, Queensland (the birthplace of Australian Aviation, plus rum, sugar, and brewed drinks capital of Australia).\
 I now experience the country kid's dream of city living in Melbourne, Victoria. Whilst living here, I have completed my Master's of Science (Aviation) and am pursuing my PhD in Aerospace Engineering and Aviation.
 
 ## 💼 Occupation
