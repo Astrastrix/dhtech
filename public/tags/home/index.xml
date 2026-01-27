@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Daniel Hicks</title>
+    <link>danielhicks.tech/tags/home/</link>
+    <description>Recent content in Home on Daniel Hicks</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2026 Daniel Hicks - All rights reserved.</copyright>
+    <atom:link href="danielhicks.tech/tags/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daniel Hicks</title>
+      <link>danielhicks.tech/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>danielhicks.tech/</guid>
+      <description>&lt;p&gt;Hey, 👋🏼&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the overly complex world of me 😅&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m an Aussie 🇦🇺 technician, lecturer, researcher, pilot, gamer, inventor, and entrepreneur. (Plus a whole lot more&amp;hellip;)&lt;/p&gt;&#xA;&lt;p&gt;From Bundaberg, Queensland (the birthplace of Australian Aviation, plus rum, sugar, and brewed drinks capital of Australia).&lt;br&gt;&#xA;I now experience the country kid&amp;rsquo;s dream of city living in Melbourne, Victoria. Whilst living here, I have completed my Master&amp;rsquo;s of Science (Aviation) and am pursuing my PhD in Aerospace Engineering and Aviation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

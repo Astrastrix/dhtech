@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Daniel Hicks</title>
+    <link>danielhicks.tech/services/</link>
+    <description>Recent content in Services on Daniel Hicks</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2026 Daniel Hicks - All rights reserved.</copyright>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="danielhicks.tech/services/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

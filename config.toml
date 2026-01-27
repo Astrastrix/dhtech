@@ -2,6 +2,8 @@ baseURL = 'danielhicks.tech'
 languageCode = 'en-us'
 title = 'Daniel Hicks'
 theme = "hugo-theme-m10c"
+copyright = "© 2026 Daniel Hicks - All rights reserved."
+
 [module]
   [module.hugoVersion]
     extended = true
@@ -11,6 +13,7 @@ theme = "hugo-theme-m10c"
   author = "Daniel Hicks"
   description = "Technician • Initiator • Mentor"
   avatar = "https://avatars.githubusercontent.com/u/43768714?v=4"
+  favicon = "https://avatars.githubusercontent.com/u/43768714?v=4"
 
 [menus]
   [[menus.main]]
@@ -19,15 +22,15 @@ theme = "hugo-theme-m10c"
     weight = 10
   [[menus.main]]
     name = 'Projects'
-    pageRef = '/projects'
+    pageRef = 'projects/'
     weight = 20
   [[menus.main]]
     name = 'Products'
-    pageRef = '/products'
+    pageRef = 'products/'
     weight = 30
   [[menus.main]]
     name = 'Services'
-    pageRef = '/services'
+    pageRef = 'services/'
     weight = 40
 
 [[params.social]]
@@ -46,3 +49,4 @@ theme = "hugo-theme-m10c"
   icon = "brand-linktree"
   name = "LinkTree"
   url = "https://www.linktr.ee/danielhicks"
+

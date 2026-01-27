@@ -1,5 +1,12 @@
-# Daniel Hicks
-<!-- BIT, BAvnTech (CQU), MSc(Avn) (RMIT) -->
+---
+title: "Daniel Hicks"
+description: ""
+date: 2026-01-25
+layout: ""
+tags: ["home"]
+draft: false
+---
+
 Hey, 👋🏼
 
 Welcome to the overly complex world of me 😅
@@ -33,4 +40,6 @@ With experience in telecommunications, aviation, academia, construction, and cre
 Previously held director and leadership roles at private and local government entities, and owned small local businesses.
 
 ---
-© 2025 Daniel Hicks
+
+<!-- ## My most recent posts -->
+

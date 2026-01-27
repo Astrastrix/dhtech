@@ -3,9 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>danielhicks.tech/</loc>
+    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>danielhicks.tech/services/</loc>
+    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>danielhicks.tech/tags/services/</loc>
+    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>danielhicks.tech/tags/</loc>
+    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>danielhicks.tech/categories/</loc>
   </url><url>
-    <loc>danielhicks.tech/tags/</loc>
+    <loc>danielhicks.tech/tags/home/</loc>
   </url>
 </urlset>
