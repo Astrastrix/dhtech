@@ -3,7 +3,7 @@ DART_SASS_VERSION = "1.97.2"
 GO_VERSION = "1.25.5"
 HUGO_VERSION = "0.154.5"
 NODE_VERSION = "24.12.0"
-TZ = "Europe/Oslo"
+TZ = "Australia/Melbourne"
 
 [build]
 publish = "public"
