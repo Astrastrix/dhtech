@@ -21,7 +21,3 @@ resources/_gen/
 # Environment files
 .env
 .env.*
-themes/hugo-theme-m10c
-themes/.DS_Store
-.DS_Store
-themes/hugo-theme-m10c
